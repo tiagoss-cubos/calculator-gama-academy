@@ -15,7 +15,7 @@ Nesse projeto, o desafio era criar uma calculadora utilizando apenas HTML, CSS e
 
 ### Acesse o link abaixo para usá-lo
 
-- [Calculadora](https://tiagoss-cubos.github.io/challenge-oracle-one/)
+- [Calculadora](https://tiagoss-cubos.github.io/calculator-gama-academy/)
 
 ### Implementações futuras:
 
